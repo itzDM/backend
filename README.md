@@ -44,7 +44,7 @@ npm start
 >Run given command 
 
 ```
-git clone --single-branch -b main https://github.com/itzDM/backend.git .
+git clone --single-branch -b master https://github.com/itzDM/backend.git .
 ```
 
 ## Note - You can delete controllerName.js , routeName.js and modelName.js
